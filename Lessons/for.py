@@ -10,4 +10,4 @@ for i in creditCard:
     if not i.isdigit():
         continue
     else:
-        print(i)
+        print(i, end='')
