@@ -1,6 +1,6 @@
 # c = 2piR
 # s = piR^2
-from Lessons import math
+from Theory import math
 
 r = float(input("Enter the radius: "))
 

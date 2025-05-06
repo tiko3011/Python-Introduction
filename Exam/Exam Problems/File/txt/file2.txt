@@ -1,0 +1,6 @@
+You are given two text files, file1.txt and file2.txt. Compare them line by line and print all
+lines that differ.
+If a file is missing, print a clear message.
+
+
+Some other things

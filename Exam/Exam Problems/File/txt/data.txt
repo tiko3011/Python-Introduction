@@ -1,0 +1,2 @@
+Open the data.txt file and read it line by line. Find how many lines are in the file.
+If the file doesn’t exist, handle the exception and print the appropriate message.
